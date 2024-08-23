@@ -3,7 +3,11 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 ## 🤓 My values
 🍏 A mindset of starting fresh and a sense of wonder <br>
 🙌 Sharing what I've learned!! <br>
+<br>
 
+## 💼 My Portfolio
+- Highest Education: Data Science and Management at Taipei Medical University (TMU)
+<br>
 
 ## 🧠 That I know and use
 ### 📚 Computer Skills:
@@ -23,9 +27,6 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 
 ## 💡 Projects
 - 
-
-## 📚 Highest Education
-- Data Science and Management at Taipei Medical University (TMU)
 
 ## 🔗 Get in touch
 - Medium: https://medium.com/@momuschao
