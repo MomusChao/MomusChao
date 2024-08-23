@@ -12,7 +12,7 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 - Data Visualization: Tableau/ SSRS/ D3.js
 - Big Data: PySpark/ Hadoop
 - Cloud: Google Cloud (GCP)/ Amazon Web Services (AWS)
-  
+<br>  
 - Front End Dev: HTML/ CSS/ JavaScript/ TypeScript
 - Back End Dev: Java/ Node.js/ Kotlin
 - Graphic Application: Adobe Photoshop/ Adobe Illustrator
@@ -20,21 +20,12 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 - Video Editing: Cyberlink Video Editor
 
 
-### 🔧 Tool
-- 
-
 ## 💡 Projects
 - 
+
+## 📚 Highest Education
+- Data Science and Management at Taipei Medical University (TMU)
 
 ## 🔗 Get in touch
 - Medium: https://medium.com/@momuschao
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
