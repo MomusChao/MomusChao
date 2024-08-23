@@ -6,11 +6,21 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 <br>
 
 ## 💼 My Portfolio
-- Highest Education: Data Science and Management at Taipei Medical University (TMU)
+- 🎓 Highest Education: Data Science and Management at Taipei Medical University (TMU)
+<br>
+
+## 💡 Projects
+- 
+
+## 🔗 Get in touch
+- Medium: https://medium.com/@momuschao
+<br>
+
+## 💡 Certifications
 <br>
 
 ## 🧠 That I know and use
-### 📚 Computer Skills:
+### 💻 Computer Skills:
 - Data Analysis: SAS / SPSS/ R/ Google Analytics (GA)/ Python
 - Database: MS SQL/ MySQL/ MongoDB
 - Data Visualization: Tableau/ SSRS/ D3.js
@@ -24,10 +34,28 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 - UX/ UI: Axure
 - Video Editing: Cyberlink Video Editor
 
+### 💬 Languages:
+- Mandarin: Native
+- Cantonese: Intermediate
+- Taiwanese: Intermediate
+- English: Intermediate
+<br>
 
-## 💡 Projects
-- 
+- Japanese: Basic Proficiency
+- Korean: Basic Proficiency
+- Spanish: Basic Proficiency
+- Italian: Basic Proficiency
+- French: Basic Proficiency
+<br>
 
-## 🔗 Get in touch
-- Medium: https://medium.com/@momuschao
+😁 Welcome to join in learning together for those who enjoy studying languages.😉
+<br>
 
+### 💬 Languages:
+🎼 Music
+- Piano
+- Chinese Flute
+- Acoustic guitar
+- Electric guitar
+<br>
+Sports
