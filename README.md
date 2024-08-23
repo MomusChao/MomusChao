@@ -12,7 +12,8 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 - Data Visualization: Tableau/ SSRS/ D3.js
 - Big Data: PySpark/ Hadoop
 - Cloud: Google Cloud (GCP)/ Amazon Web Services (AWS)
-<br>  
+<br>
+
 - Front End Dev: HTML/ CSS/ JavaScript/ TypeScript
 - Back End Dev: Java/ Node.js/ Kotlin
 - Graphic Application: Adobe Photoshop/ Adobe Illustrator
