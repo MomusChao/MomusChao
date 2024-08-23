@@ -22,10 +22,19 @@ Tableau 2020 Training for Data Science & Business Analytics
 <br>
 
 ###
-- Issuing organization: Udeny
+- Issuing organization: Udemy
 - Issue Date: Jun, 2021
 - [Link](https://www.udemy.com/certificate/UC-5b0cdd6a-862a-458d-b31d-81bfe78f5cf2) 
 <br>
+
+<br>
+Analyzing and Visualizing Data with Power BI
+<br>
+###
+- Issuing organization: Microsoft
+- Issue Date: Oct, 2018
+<br>
+
 
 ## 🧠 That I know and use
 ### 💻 Computer Skills:
