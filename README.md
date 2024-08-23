@@ -1,10 +1,5 @@
 Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, and diving. Feel free to share any new technology or travel knowledge with me.
 
-## 🤓 My values
-🍏 A mindset of starting fresh and a sense of wonder <br>
-🙌 Sharing what I've learned!! <br>
-<br>
-
 ## 💼 My Portfolio
 - 🎓 Highest Education: Data Science and Management at Taipei Medical University (TMU)
 <br>
@@ -72,17 +67,8 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 
 ### 🌠 Hobbies:
 🎼 Music
-- Piano
-- Chinese Flute
-- Acoustic guitar
-- Electric guitar
+- Piano/ Chinese Flute/ Acoustic guitar/ Electric guitar
 <br>
 
 🚴 Sports
-- Swimming
-- Hiking
-- Snowboarding
-- Judo
-- Volleyball
-- Badminton
-- Tennis
+- Swimming/ Hiking/ Snowboarding/ Judo/ Volleyball/ Badminton/ Tennis
