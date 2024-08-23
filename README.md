@@ -18,10 +18,11 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 
 ## 🏆 Certifications
 <br>
-- Querying Data with Transact-SQL
--- Issuing organization: Microsoft
--- Issue Date: Oct, 2018
--- Credential ID: 3A634D0C-B0E3-46EE-8518-AA3A0D5029C3
+- Tableau 2020 Training for Data Science & Business Analytics
+  Issuing organization: Udeny
+  Issue Date: Jun, 2021
+  https://www.udemy.com/certificate/UC-5b0cdd6a-862a-458d-b31d-81bfe78f5cf2
+
 
 ## 🧠 That I know and use
 ### 💻 Computer Skills:
