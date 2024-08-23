@@ -18,6 +18,10 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 
 ## 🏆 Certifications
 <br>
+- Querying Data with Transact-SQL
+-- Issuing organization: Microsoft
+-- Issue Date: Oct, 2018
+-- Credential ID: 3A634D0C-B0E3-46EE-8518-AA3A0D5029C3
 
 ## 🧠 That I know and use
 ### 💻 Computer Skills:
