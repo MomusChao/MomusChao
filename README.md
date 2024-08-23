@@ -18,7 +18,7 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 
 ## 🏆 Certifications
 <br>
-Tableau 2020 Training for Data Science & Business Analytics 
+**Tableau 2020 Training for Data Science & Business Analytics** 
 <br>
 
 ###
@@ -27,7 +27,7 @@ Tableau 2020 Training for Data Science & Business Analytics
 - [Link](https://www.udemy.com/certificate/UC-5b0cdd6a-862a-458d-b31d-81bfe78f5cf2) 
 <br>
 
-Analyzing and Visualizing Data with Power BI
+**Analyzing and Visualizing Data with Power BI**
 <br>
 
 ###
@@ -39,31 +39,31 @@ Analyzing and Visualizing Data with Power BI
 ## 🧠 That I know and use
 ### 💻 Computer Skills:
 - ***Data Analysis:*** SAS / SPSS/ R/ Google Analytics (GA)/ Python
-- Database: MS SQL/ MySQL/ MongoDB
-- Data Visualization: Tableau/ SSRS/ D3.js
-- Big Data: PySpark/ Hadoop
-- Cloud: Google Cloud (GCP)/ Amazon Web Services (AWS)
+- ***Database:*** MS SQL/ MySQL/ MongoDB
+- ***Data Visualization:*** Tableau/ SSRS/ D3.js
+- ***Big Data:*** PySpark/ Hadoop
+- ***Cloud:*** Google Cloud (GCP)/ Amazon Web Services (AWS)
 <br>
 
-- Front End Dev: HTML/ CSS/ JavaScript/ TypeScript
-- Back End Dev: Java/ Node.js/ Kotlin
-- Graphic Application: Adobe Photoshop/ Adobe Illustrator
-- UX/ UI: Axure
-- Video Editing: Cyberlink Video Editor
+- ***Front End Dev:*** HTML/ CSS/ JavaScript/ TypeScript
+- ***Back End Dev:*** Java/ Node.js/ Kotlin
+- ***Graphic Application:*** Adobe Photoshop/ Adobe Illustrator
+- ***UX/ UI:*** Axure
+- ***Video Editing:*** Cyberlink Video Editor
 
 ### 💬 Languages:
-- Mandarin: Native
-- Cantonese: Intermediate
-- Taiwanese: Intermediate
-- English: Intermediate (IELTS:7)
+- ***Mandarin:*** Native
+- ***Cantonese:*** Intermediate
+- ***Taiwanese:*** Intermediate
+- ***English:*** Intermediate (IELTS:7)
 <br>
 
-- Japanese: Basic Proficiency (N3)
-- Spanish: Basic Proficiency (B1)
-- Korean: Basic Proficiency (A2)
-- Italian: Basic Proficiency (A2)
-- German: Basic Proficiency (A2)
-- French: Basic Proficiency (A1)
+- ***Japanese:*** Basic Proficiency (N3)
+- ***Spanish:*** Basic Proficiency (B1)
+- ***Korean:*** Basic Proficiency (A2)
+- ***Italian:*** Basic Proficiency (A2)
+- ***German:*** Basic Proficiency (A2)
+- ***French:*** Basic Proficiency (A1)
 <br>
 
 😁 Welcome to join in learning together for those who enjoy studying languages.😉
