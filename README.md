@@ -14,77 +14,15 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 ## 🏆 Certifications
 <br>
 
-**Tableau 2020 Training for Data Science & Business Analytics** 
-<br>
-
-###
-- Issuing organization: Udemy
-- Issue Date: Jun, 2021
-- [Link](https://www.udemy.com/certificate/UC-5b0cdd6a-862a-458d-b31d-81bfe78f5cf2) 
-<br>
-
-**Analyzing and Visualizing Data with Power BI**
-<br>
-
-###
-- Issuing organization: Microsoft
-- Issue Date: Oct, 2018
-<br>
-
-**Data Science Essentials**
-<br>
-
-###
-- Issuing organization: Microsoft
-- Issue Date: Oct, 2018
-<br>
-
-**Deep Learning Explained**
-<br>
-
-###
-- Issuing organization: Microsoft
-- Issue Date: Oct, 2018
-<br>
-
-**Introduction to Data Science**
-<br>
-
-###
-- Issuing organization: Microsoft
-- Issue Date: Oct, 2018
-<br>
-
-**Introduction to Python for Data Science**
-<br>
-
-###
-- Issuing organization: Microsoft
-- Issue Date: Oct, 2018
-<br>
-
-**Natural Language Processing (NLP)**
-<br>
-
-###
-- Issuing organization: Microsoft
-- Issue Date: Oct, 2018
-<br>
-
-**Principles of Machine Learning**
-<br>
-
-###
-- Issuing organization: Microsoft
-- Issue Date: Oct, 2018
-<br>
-
-**Querying Data with Transact-SQL**
-<br>
-
-###
-- Issuing organization: Microsoft
-- Issue Date: Oct, 2018
+- Tableau 2020 Training for Data Science & Business Analytics, Udemy
+- Analyzing and Visualizing Data with Power BI, Microsoft
+- Data Science Essentials, Microsoft
+- Deep Learning Explained, Microsoft
+- Introduction to Data Science, Microsoft
+- Introduction to Python for Data Science, Microsoft
+- Natural Language Processing (NLP), Microsoft
+- Principles of Machine Learning, Microsoft
+- Querying Data with Transact-SQL, Microsoft
 <br>
 
 ## 🧠 That I know and use
