@@ -11,7 +11,7 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 - Medium: https://medium.com/@momuschao
 <br>
 
-## 🏆 Certifications
+## 📖 Training and Certifications
 <br>
 
 - Tableau 2020 Training for Data Science & Business Analytics, Udemy
@@ -20,9 +20,13 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 - Deep Learning Explained, Microsoft
 - Introduction to Data Science, Microsoft
 - Introduction to Python for Data Science, Microsoft
+<br>
+
 - Natural Language Processing (NLP), Microsoft
 - Principles of Machine Learning, Microsoft
 - Querying Data with Transact-SQL, Microsoft
+- Big Data Technology Fundamentals Online, AWS
+- Big Data and Machine Learning, Google Could
 <br>
 
 ## 🧠 That I know and use
@@ -56,6 +60,7 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 <br>
 
 😁 Welcome to join in learning together for those who enjoy studying languages.😉
+
 <br>
 
 
