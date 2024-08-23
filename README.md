@@ -14,7 +14,8 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 ## 📖 Training and Certifications
 <br>
 
-- Tableau 2020 Training for Data Science & Business Analytics, Udemy
+🍦 Udemy
+- Tableau 2020 Training for Data Science & Business Analytics
 <br>
 
 - Analyzing and Visualizing Data with Power BI, Microsoft
