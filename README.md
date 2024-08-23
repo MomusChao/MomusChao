@@ -18,31 +18,36 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 - Tableau 2020 Training for Data Science & Business Analytics
 <br>
 
-- Analyzing and Visualizing Data with Power BI, Microsoft
-- Data Science Essentials, Microsoft
-- Deep Learning Explained, Microsoft
-- Introduction to Data Science, Microsoft
-- Introduction to Python for Data Science, Microsoft
-- Natural Language Processing (NLP), Microsoft
-- Principles of Machine Learning, Microsoft
-- Querying Data with Transact-SQL, Microsoft
+🍦 Microsoft
+- Analyzing and Visualizing Data with Power BI
+- Data Science Essentials
+- Deep Learning Explained
+- Introduction to Data Science
+- Introduction to Python for Data Science
+- Natural Language Processing (NLP)
+- Principles of Machine Learning
+- Querying Data with Transact-SQL
 <br>
 
-- Big Data Technology Fundamentals Online, AWS
+🍦 Amazon Web Services (AWS)
+- Big Data Technology Fundamentals Online
 <br>
 
+🍦 Google
 - Big Data and Machine Learning, Google Could
-- Certification of Google analytics, Google
+- Certification of Google analytics
 <br>
 
+🍦 
 - Certification of Completion by the Industry Intelligence and Data Decision Program
 <br>
 
-- Certification of Survey and Research Methods Analyst, Matrix Management Consultants Company
-- Certification of Brand Management Analyst, Matrix Management Consultants Company
-- Certification of Service Management Analyst, Matrix Management Consultants Company
-- Certification of Consumer Behavior Analyst, Matrix Management Consultants Company
-- Certification of Internet and Social Media Marketing Manager, Matrix Management Consultants Company
+🍦 Matrix Management Consultants Company
+- Certification of Survey and Research Methods Analyst
+- Certification of Brand Management Analyst
+- Certification of Service Management Analyst
+- Certification of Consumer Behavior Analyst
+- Certification of Internet and Social Media Marketing Manager
 <br>
 
 ## 🧠 That I know and use
