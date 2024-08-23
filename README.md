@@ -122,7 +122,7 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 
 ## 🌠 Hobbies:
 🎼 Music
-- Piano/ Chinese Flute/ Acoustic guitar/ Electric guitar
+- Piano/ Chinese flute/ Acoustic guitar/ Electric guitar
 <br>
 
 🚴 Sports
