@@ -31,6 +31,61 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 - Issue Date: Oct, 2018
 <br>
 
+**Data Science Essentials**
+<br>
+
+###
+- Issuing organization: Microsoft
+- Issue Date: Oct, 2018
+<br>
+
+**Deep Learning Explained**
+<br>
+
+###
+- Issuing organization: Microsoft
+- Issue Date: Oct, 2018
+<br>
+
+**Introduction to Data Science**
+<br>
+
+###
+- Issuing organization: Microsoft
+- Issue Date: Oct, 2018
+<br>
+
+**Introduction to Python for Data Science**
+<br>
+
+###
+- Issuing organization: Microsoft
+- Issue Date: Oct, 2018
+<br>
+
+**Natural Language Processing (NLP)**
+<br>
+
+###
+- Issuing organization: Microsoft
+- Issue Date: Oct, 2018
+<br>
+
+**Principles of Machine Learning**
+<br>
+
+###
+- Issuing organization: Microsoft
+- Issue Date: Oct, 2018
+<br>
+
+**Querying Data with Transact-SQL**
+<br>
+
+###
+- Issuing organization: Microsoft
+- Issue Date: Oct, 2018
+<br>
 
 ## 🧠 That I know and use
 ### 💻 Computer Skills:
@@ -65,7 +120,7 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 😁 Welcome to join in learning together for those who enjoy studying languages.😉
 <br>
 
-### 🌠 Hobbies:
+## 🌠 Hobbies:
 🎼 Music
 - Piano/ Chinese Flute/ Acoustic guitar/ Electric guitar
 <br>
