@@ -1,7 +1,7 @@
 Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, and diving. Feel free to share any new technology or travel knowledge with me.
 
 ## 💼 My Portfolio
-- 🎓 Highest Education: Data Science and Management at Taipei Medical University (TMU)
+- 🎓 ***Highest Education:*** Data Science and Management at Taipei Medical University (TMU)
 <br>
 
 ## 💡 Projects
@@ -57,6 +57,7 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 
 😁 Welcome to join in learning together for those who enjoy studying languages.😉
 <br>
+
 
 ## 🌠 Hobbies:
 🎼 Music
