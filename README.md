@@ -16,7 +16,7 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 - Medium: https://medium.com/@momuschao
 <br>
 
-## 💡 Certifications
+## 🏆 Certifications
 <br>
 
 ## 🧠 That I know and use
@@ -51,11 +51,18 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 😁 Welcome to join in learning together for those who enjoy studying languages.😉
 <br>
 
-### 💬 Languages:
+### 🌠 Hobbies:
 🎼 Music
 - Piano
 - Chinese Flute
 - Acoustic guitar
 - Electric guitar
 <br>
-Sports
+🚴 Sports
+- Swimming
+- Hiking
+- Snowboarding
+- Judo
+- Volleyball
+- Badminton
+- Tennis
