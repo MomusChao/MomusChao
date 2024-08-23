@@ -29,12 +29,14 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 
 - Big Data Technology Fundamentals Online, AWS
 <br>
+
 - Big Data and Machine Learning, Google Could
 - Certification of Google analytics, Google
 <br>
 
 - Certification of Completion by the Industry Intelligence and Data Decision Program
-<br>  
+<br>
+
 - Certification of Survey and Research Methods Analyst, Matrix Management Consultants Company
 - Certification of Brand Management Analyst, Matrix Management Consultants Company
 - Certification of Service Management Analyst, Matrix Management Consultants Company
