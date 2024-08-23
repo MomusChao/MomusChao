@@ -38,14 +38,15 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 - Mandarin: Native
 - Cantonese: Intermediate
 - Taiwanese: Intermediate
-- English: Intermediate
+- English: Intermediate (IELTS:7)
 <br>
 
-- Japanese: Basic Proficiency
-- Korean: Basic Proficiency
-- Spanish: Basic Proficiency
-- Italian: Basic Proficiency
-- French: Basic Proficiency
+- Japanese: Basic Proficiency (N3)
+- Spanish: Basic Proficiency (B1)
+- Korean: Basic Proficiency (A2)
+- Italian: Basic Proficiency (A2)
+- German: Basic Proficiency (A2)
+- French: Basic Proficiency (A1)
 <br>
 
 😁 Welcome to join in learning together for those who enjoy studying languages.😉
@@ -58,6 +59,7 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 - Acoustic guitar
 - Electric guitar
 <br>
+
 🚴 Sports
 - Swimming
 - Hiking
