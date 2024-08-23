@@ -38,7 +38,7 @@ Analyzing and Visualizing Data with Power BI
 
 ## 🧠 That I know and use
 ### 💻 Computer Skills:
-- <font color=#FF6600>Data Analysis:</font> SAS / SPSS/ R/ Google Analytics (GA)/ Python
+- <span style="color: Orange;">Data Analysis:</span> SAS / SPSS/ R/ Google Analytics (GA)/ Python
 - Database: MS SQL/ MySQL/ MongoDB
 - Data Visualization: Tableau/ SSRS/ D3.js
 - Big Data: PySpark/ Hadoop
