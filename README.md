@@ -15,8 +15,6 @@ Hello everyone, I'm Momus. I'm a technology enthusiast who enjoys outdoor sports
 <br>
 
 ## 📖 Training and Certifications
-<br>
-
 🍦 Udemy
 - Tableau 2020 Training for Data Science & Business Analytics
 <br>
