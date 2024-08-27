@@ -1,11 +1,12 @@
-Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, and diving. Feel free to share any new technology or travel knowledge with me.
+Hello everyone, I'm Momus. I'm a technology enthusiast who enjoys outdoor sports and learning various languages. If anyone shares similar interests in technology, languages, and sports, feel free to connect and exchange ideas on this platform! 🙈🙈🙈
 
 ## 💼 My Portfolio
 - 🎓 ***Highest Education:*** Data Science and Management at Taipei Medical University (TMU)
 <br>
 
 ## 💡 Projects
-- 
+[Mudskipper Behavior Research & Analysis] (https://medium.com/@momuschao/mudskipper-behavior-research-analysis-7dc70d2f951)
+- Conducting statistical analysis and social network analysis using meteorological data and biological behavior data in R.
 
 ## 🔗 Get in touch
 - Medium: https://medium.com/@momuschao
@@ -38,7 +39,7 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 - Certification of Google analytics
 <br>
 
-🍦 
+🍦 Fu Jen Catholic University
 - Certification of Completion by the Industry Intelligence and Data Decision Program
 <br>
 
@@ -79,11 +80,6 @@ Hello everyone, I'm Momus. I'm a sports enthusiast who enjoys hiking, swimming, 
 - ***German:***  Basic Proficiency (A2)
 - ***French:***  Basic Proficiency (A1)
 <br>
-
-😁 Welcome to join in learning together for those who enjoy studying languages.😉
-
-<br>
-
 
 ## 🌠 Hobbies:
 🎼 Music
