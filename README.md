@@ -2,8 +2,7 @@ Hello everyone, I'm Momus. I'm a technology enthusiast who enjoys outdoor sports
 
 ## 💼 My Portfolio
 - 🎓 ***Highest Education:*** Data Science and Management at Taipei Medical University (TMU)
-- ***Distinctness Behave*** APEC Youth representative 2018 (Model APEC SOM)
-- WTO & RTA Youth representative 2018
+- 🍮 ***Distinctness Behave:*** APEC Youth representative 2018 (Model APEC SOM),and WTO & RTA Youth representative 2018
 <br>
 
 ## 💡 Projects
