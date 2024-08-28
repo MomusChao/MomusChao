@@ -5,10 +5,13 @@ Hello everyone, I'm Momus. I'm a technology enthusiast who enjoys outdoor sports
 <br>
 
 ## 💡 Projects
+The Occurrence & Color Composition of Aurora
+- Using machine learning and statistical analysis for aurora prediction.
+<br>
+
 [Mudskipper Behavior Research & Analysis](https://medium.com/@momuschao/mudskipper-behavior-research-analysis-7dc70d2f951)
 - Conducting statistical analysis and social network analysis using meteorological data and biological behavior data in R.
 <br>
-
 
 ## 🔗 Get in touch
 - Medium: https://medium.com/@momuschao
