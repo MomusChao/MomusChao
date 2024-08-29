@@ -16,6 +16,7 @@ Hello everyone, I'm Momus. I'm a technology enthusiast who enjoys outdoor sports
 <br>
 
 ## 🔗 Get in touch
+- Linkedin: www.linkedin.com/in/momus-c
 - Medium: https://medium.com/@momuschao
 <br>
 
